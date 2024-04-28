@@ -1,0 +1,1 @@
+import styles from './Wrapper.module.css'export default function Wrapper(props) {	return (		<div type={props?.type} className={`${styles.wrapper} ${props.className}`}>			{props.children}		</div>	)}

@@ -1,0 +1,1 @@
+.wrapper {    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);    padding: 10px;    border-radius: 10px;}.wrapper[type='gray'] {    background-color: #dad2d2;}.wrapper[type='light'] {    background-color: #e7e4e4;}
